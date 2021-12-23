@@ -1,0 +1,7 @@
+﻿  ParalellOne.c
+D:\UNI\PTE\I\ParhuzamosAlgoritmusok\HomeWorkOne\retry\ParalellOne\ParalellOne\ParalellOne.c(40,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UNI\PTE\I\ParhuzamosAlgoritmusok\HomeWorkOne\retry\ParalellOne\ParalellOne\ParalellOne.c(62,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\UNI\PTE\I\ParhuzamosAlgoritmusok\HomeWorkOne\retry\ParalellOne\ParalellOne\ParalellOne.c(63,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UNI\PTE\I\ParhuzamosAlgoritmusok\HomeWorkOne\retry\ParalellOne\ParalellOne\ParalellOne.c(68,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UNI\PTE\I\ParhuzamosAlgoritmusok\HomeWorkOne\retry\ParalellOne\ParalellOne\ParalellOne.c(69,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ParalellOne.vcxproj -> D:\UNI\PTE\I\ParhuzamosAlgoritmusok\HomeWorkOne\retry\ParalellOne\x64\Debug\ParalellOne.exe
